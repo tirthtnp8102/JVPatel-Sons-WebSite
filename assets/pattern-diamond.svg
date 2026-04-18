@@ -1,0 +1,16 @@
+<svg width="800" height="900" viewBox="0 0 800 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="900" fill="#13232B"/>
+  <rect x="32" y="32" width="736" height="836" rx="34" fill="#162B34" stroke="#355A67" stroke-width="2"/>
+  <path d="M160 110L260 210L160 310L60 210L160 110Z" stroke="#E8C989" stroke-width="3"/>
+  <path d="M400 110L500 210L400 310L300 210L400 110Z" stroke="#E8C989" stroke-width="3"/>
+  <path d="M640 110L740 210L640 310L540 210L640 110Z" stroke="#E8C989" stroke-width="3"/>
+  <path d="M160 350L260 450L160 550L60 450L160 350Z" stroke="#7CE1DB" stroke-width="3"/>
+  <path d="M400 350L500 450L400 550L300 450L400 350Z" stroke="#7CE1DB" stroke-width="3"/>
+  <path d="M640 350L740 450L640 550L540 450L640 350Z" stroke="#7CE1DB" stroke-width="3"/>
+  <path d="M160 590L260 690L160 790L60 690L160 590Z" stroke="#E8C989" stroke-width="3"/>
+  <path d="M400 590L500 690L400 790L300 690L400 590Z" stroke="#E8C989" stroke-width="3"/>
+  <path d="M640 590L740 690L640 790L540 690L640 590Z" stroke="#E8C989" stroke-width="3"/>
+  <path d="M60 210H740" stroke="#27424B" stroke-width="2" stroke-dasharray="8 10"/>
+  <path d="M60 450H740" stroke="#27424B" stroke-width="2" stroke-dasharray="8 10"/>
+  <path d="M60 690H740" stroke="#27424B" stroke-width="2" stroke-dasharray="8 10"/>
+</svg>

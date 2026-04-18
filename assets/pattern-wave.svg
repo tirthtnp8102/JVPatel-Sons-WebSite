@@ -1,0 +1,13 @@
+<svg width="800" height="900" viewBox="0 0 800 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="900" fill="#0E1C24"/>
+  <rect x="28" y="28" width="744" height="844" rx="38" fill="#142B35" stroke="#2A5561" stroke-width="2"/>
+  <path d="M0 180C80 140 160 140 240 180C320 220 400 220 480 180C560 140 640 140 720 180C760 200 780 210 800 220V320C720 280 640 280 560 320C480 360 400 360 320 320C240 280 160 280 80 320C40 340 20 350 0 360V180Z" fill="#76D2CC" fill-opacity="0.22"/>
+  <path d="M0 460C80 420 160 420 240 460C320 500 400 500 480 460C560 420 640 420 720 460C760 480 780 490 800 500V600C720 560 640 560 560 600C480 640 400 640 320 600C240 560 160 560 80 600C40 620 20 630 0 640V460Z" fill="#E1D3B0" fill-opacity="0.18"/>
+  <path d="M0 180C80 140 160 140 240 180C320 220 400 220 480 180C560 140 640 140 720 180C760 200 780 210 800 220" stroke="#8FE7E1" stroke-width="4"/>
+  <path d="M0 460C80 420 160 420 240 460C320 500 400 500 480 460C560 420 640 420 720 460C760 480 780 490 800 500" stroke="#E8C989" stroke-width="4"/>
+  <path d="M80 90V810" stroke="#203B45" stroke-width="2" stroke-dasharray="10 10"/>
+  <path d="M240 90V810" stroke="#203B45" stroke-width="2" stroke-dasharray="10 10"/>
+  <path d="M400 90V810" stroke="#203B45" stroke-width="2" stroke-dasharray="10 10"/>
+  <path d="M560 90V810" stroke="#203B45" stroke-width="2" stroke-dasharray="10 10"/>
+  <path d="M720 90V810" stroke="#203B45" stroke-width="2" stroke-dasharray="10 10"/>
+</svg>
